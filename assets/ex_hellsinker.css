@@ -1,0 +1,170 @@
+@charset "utf-8";
+
+/* common */
+
+.lv1 { font-weight: 600 }
+.lv2 { font-weight: 600; font-size: large }
+.lv3 { font-weight: 600; color: #bf4070 } 
+.lv4 { font-weight: 600; font-size: large; color: #bf4070 }
+
+.lvx { font-weight: 300; text-decoration: line-through }
+
+
+/* body */
+
+body {
+	color: #9f9f9f;
+	background-color: #202020
+}
+
+
+/* img */
+
+img {
+	border-style: none;
+	position: static
+}
+
+
+/* text */
+
+h1 {
+	color: #9f9f9f;
+	background-color: transparent;
+	font-family: "ＭＳ Ｐ明朝", 平成明朝, serif;
+	font-size: large;
+	font-weight: 800;
+	font-style: normal;
+	font-stretch: condensed;
+	letter-spacing: 0.6em;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #808080;
+	padding-top: 0.8em;
+	padding-left: 0.8em;
+	margin-right: 40%;
+	margin-bottom: 2em
+}
+
+
+h2 {
+	color: #9f9f9f;
+	background-color: transparent;
+	font-size: large;
+	font-weight: 600;
+	font-style: normal;
+	border-left-style: solid;
+	border-left-width: 1.6em;
+	border-left-color: #808080;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-color: #808080;
+	padding-top: 0.4em;
+	padding-left: 0.8em;
+	margin-top: 2em;
+	margin-right: 30%
+}
+
+
+p {
+	color: #9f9f9f;
+	background-color: transparent;
+	font-family: sans-serif;
+	font-size: small;
+	font-weight: 400;
+	font-stretch: normal
+}
+
+p.topic1 {
+	background-color: #505060;
+	border-width: thin;
+	border-style: none;
+	padding: 1em
+}
+
+p.topic2 {
+	border-color: #808080;
+	border-width: thin;
+	border-style: dashed;
+	padding: 1em
+}
+
+p.topic3 {
+	background-color: #606050;
+	border-color: #808080;
+	border-width: thin;
+	border-style: solid;
+	padding: 1em
+}
+
+p a {
+	color: #9f9f9f;
+	background-color: transparent;
+	font-family: sans-serif;
+	font-size: small;
+	font-weight: 600;
+	font-stretch: normal
+}    
+
+p a:link, p a:visited { color: #afafaf }
+p a:hover {
+	color: #505050;
+	background-color: #9f9f9f
+}
+
+
+address {
+	color: #808080;
+	background-color: transparent;
+	font-family: sans-serif;
+	font-size: small;
+	font-weight: 300;
+	font-stretch: normal
+}
+
+address a {
+	color: #9f9f9f;
+	background-color: transparent;
+	font-family: sans-serif;
+	font-size: small;
+	font-weight: 300;
+	font-stretch: normal
+}  
+
+address a:link, address a:visited { color: #afafaf }
+address a:hover {
+	color: #505050;
+	background-color: #9f9f9f
+}
+
+
+/* topmenu */
+
+img#topbnr { 
+	right: 2px;
+	top:2px;
+	position: absolute
+}
+
+
+/*
+     FILE ARCHIVED ON 11:24:42 Oct 05, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:02:34 Jan 21, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 114.526 (3)
+  esindex: 0.005
+  captures_list: 132.717
+  CDXLines.iter: 9.904 (3)
+  PetaboxLoader3.datanode: 85.301 (4)
+  exclusion.robots: 0.134
+  exclusion.robots.policy: 0.123
+  RedisCDXSource: 4.907
+  PetaboxLoader3.resolve: 53.033 (2)
+  load_resource: 40.425
+*/
